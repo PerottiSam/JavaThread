@@ -1,2 +1,2 @@
 # JavaThread
-Sincronizzare tre processi usando wait(long timeout)
+Sincronizzare tre thread usando wait(long timeout)
